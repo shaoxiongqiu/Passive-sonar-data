@@ -40,9 +40,9 @@
 
 ## 📖 如果您在研究中使用了本数据集，请务必引用以下两篇相关论文：
 @ARTICLE{QIU11418655,
+  title={MPPI-DWIT: Robust Bearing-Only Target Tracking of Single AUV With Detection Sector Constraints}, 
   author={Qiu, Shaoxiong and Xu, Hongli and Wang, Junyi and Ru, Jingyu and Zhang, Wenrui and Wang, Jia},
   journal={IEEE Transactions on Automation Science and Engineering}, 
-  title={MPPI-DWIT: Robust Bearing-Only Target Tracking of Single AUV With Detection Sector Constraints}, 
   year={2026},
   volume={23},
   number={},
@@ -51,11 +51,11 @@
 
 @article{QIU2026123409,
 title = {Dynamic target tracking and pursuit for single AUV with bearing-only constrained sonar},
+author = {Shaoxiong Qiu and Hongli Xu and Jingyu Ru and Wenrui Zhang},
 journal = {Ocean Engineering},
 volume = {343},
 pages = {123409},
 year = {2026},
 issn = {0029-8018},
 doi = {https://doi.org/10.1016/j.oceaneng.2025.123409},
-url = {https://www.sciencedirect.com/science/article/pii/S0029801825030926},
-author = {Shaoxiong Qiu and Hongli Xu and Jingyu Ru and Wenrui Zhang}}
+url = {https://www.sciencedirect.com/science/article/pii/S0029801825030926}}
